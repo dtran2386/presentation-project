@@ -1,8 +1,11 @@
-Project ideas
+Project idea
 
-- A game would be cool, but I imagine half the class will milk that idea to death.
+Come to the tropics mon
 
-- Leaning towards building a website that would closely reflect what an actual client would want, i.e. a 'contact us' page with form validation, setting up appointments, interactive design elements, etc.
+- Tropical island themed website that incorporates a weather API to generate current conditions.
 
-- Another option I'm considering is making a quiz app that generates questions at random, taken from a database of various questions. There would have to be a key which is then used to grade the quiz.
-    - Incorporate a slide show written in javascript to visualize the quiz.
+- A basic slideshow showing many awesome pictures of landscape and activities.
+
+- Another option I'm considering is making a quiz that generates questions about the vacation spot at random, taken from a database of various questions.
+
+- A 'get more information/contact us' section complete with input validation.
