@@ -1,2 +1,2 @@
-# Come to the tropics mon
-Tropical location themed website incorporating weather API, slideshow of awesome pictures, a fun quiz and much more!
+# When should I visit?
+Tropical location themed website incorporating weather API to show historic weather conditions which will serve to inform user when the best time to visit is, a slideshow of awesome pictures, and much more!
